@@ -1,5 +1,6 @@
 package Selenium;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -7,7 +8,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class P5_GetAttribute {
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver","C:/Users/serka/eclipse-workspace/Batch15/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","");
+        //WebDriverManager.chromedriver().setup();
         WebDriver driver=new ChromeDriver();
         driver.get("http://www.amazon.com");
         WebElement element=driver.findElement(By.id("twotabsearchtextbox"));

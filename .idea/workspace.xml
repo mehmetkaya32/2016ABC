@@ -2,83 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RunByGroups.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RunClasses.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RunMethod.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RunPackage.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RunparallelClassLevel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RunparallelMethodsLevel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Runparalleltestlevel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/DataProvideEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/DataProviderEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/DepentsOnMethodAnn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/InvocationCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/test/Ex1_forXml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/test/Ex2_forXml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/testbla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/factoryannotations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/login/Credentials.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/Credentials.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/CheckBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/FormyCheckBoxTestCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/FormyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/FourCommonMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/SubmitForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/resource/configuration/GetPropertyMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/superhero/homepage/ApplyingIterationMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/superhero/homepage/NavigationLinks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/superhero/loginpage/Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/youtube/TestingYoutube.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/gmail/Credentials.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/gmail/SendEmails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/mehmetgul/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/mehmetgul/Solution.java.orig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/mehmetgul/mylib/actionclass/Amazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/mehmetgul/mylib/actionclass/Amazon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day11/WaitsPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/ActionsClassHoverPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/DragAndDropPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/FramesPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/JSExecutorPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/WaitsPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day14/ConfigReaderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day14/WebTablesPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day3/BrowserFactoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day3/DifferenceBetweenQuitClose.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day3/NavigationPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day4/EnterTextPractice2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day4/FindElementsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day5/AnnotationsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day5/MultipleButtonsTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day5/TestNGPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day9/TimeToReview.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vytrack/CalendarEventsTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vytrack/LoginTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vytrack/VyTrackTestCases.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/P5_GetAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/P5_GetAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Batch15.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/DataProviderEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/DataProviderEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/P5_GetAttribute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Selenium/P5_GetAttribute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/testbla.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,13 +84,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.testbla.thirdTest">
-    <configuration name="C:/Users/serka/eclipse-workspace/Batch15/RunparallelMethodsLevel.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Batch15" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/RunparallelMethodsLevel.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
+  <component name="RunManager" selected="Application.P5_GetAttribute">
+    <configuration name="P5_GetAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.P5_GetAttribute" />
+      <module name="2016ABC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -235,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P5_GetAttribute" />
         <item itemvalue="TestNG.testbla.thirdTest" />
         <item itemvalue="TestNG.testbla" />
         <item itemvalue="TestNG.testbla.secondTest" />
         <item itemvalue="TestNG.DepentsOnMethodAnn.test4" />
-        <item itemvalue="TestNG.C:/Users/serka/eclipse-workspace/Batch15/RunparallelMethodsLevel.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -274,6 +210,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/MySeleniumLibrary" />
       <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/../MySeleniumLibrary" />
     </ignored-roots>
   </component>
 </project>
